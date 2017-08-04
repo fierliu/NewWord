@@ -1,0 +1,6 @@
+1. Change inner class to lambda style.
+2. Add set learning amount of each time.
+3. Add recorder of learning amount and time.
+4. Add shortcut key for 3 keys.
+5. Change appearance.
+6. Add import lexicon function, use another database to store words in use.
